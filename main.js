@@ -28,3 +28,4 @@ function loadGoogleMaps(apiKey) {
     };
     document.head.appendChild(script);
 }
+
